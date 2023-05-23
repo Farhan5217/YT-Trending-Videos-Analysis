@@ -34,8 +34,12 @@ Creating new features or modifying existing ones to extract more meaningful insi
 4) Statistical analysis:
  Utilizing statistical techniques to uncover relationships and dependencies within the dataset.
 
-5)Visualization:
+5) Visualization:
  Presenting the findings through informative charts, graphs, and visual representations.
+ 
+ ![Screenshot](yt1.PNG)
+ ![Screenshot](yt2.PNG)
+ ![Screenshot](yt3.PNG)
 
 6) Insights and conclusions: 
 Summarizing the key findings and drawing meaningful conclusions from the analysis.
