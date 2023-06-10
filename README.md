@@ -13,7 +13,7 @@ This project focuses on the analysis of YouTube trending videos using a dataset 
 
 ## Objectives
 
-The primary objectives of this project are as follows:
+The primary objectives of project are as follows:
 
 1) Gain insights into the characteristics of trending YouTube videos.
 2) Identify commonalities among the videos that trend on YouTube.
